@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My HackX</string>
+    <string name="firebase_web_api_key">AIzaSyDummyValueForTesting123456789</string>
+</resources>
